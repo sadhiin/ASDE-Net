@@ -6,7 +6,7 @@ from model_matrixs import calc_IOU, calc_IOU_loss
 
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
 
-BASE_PATH = "E:/Projects/ASDE-Net/videos"
+BASE_PATH = "E:/Projects/videos"
 HEIGHT = 256
 WIDTH = 256
 
