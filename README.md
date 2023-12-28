@@ -6,5 +6,5 @@ please refer to kaggel dataset for the kitti dataset.
 
 
 ## Use
-- Run the notebook to train the save the model
-- Run videotest.py for interencing over any video.
+- Run the [notebook](https://github.com/sadhiin/TSR/blob/main/final-model.ipynb) to train the save the model
+- Run [videotest.py](https://github.com/sadhiin/TSR/blob/main/videotest.py) for interencing over any video.
