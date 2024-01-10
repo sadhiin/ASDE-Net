@@ -2,7 +2,7 @@
 
 ---
 ## Data
-please refer to [kaggel dataset](https://www.kaggle.com/datasets/klemenko/kitti-dataset) for the kitti dataset.
+please refer to [this page](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d) for the kitti dataset.
 
 
 ## Use
